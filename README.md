@@ -14,7 +14,7 @@ Menghemat token output dengan memangkas gaya bahasa, bukan mengubah isi teknis.
 Buka repo ini sebagai project, lalu minta agent: "pakai skill kompres-token".
 
 ## Cara pakai Claude Desktop
-Customize -> Plugins -> Add marketplace -> masukkan `rexygilangr/skillai-komprestoken`.
+Customize -> Plugins -> Add marketplace -> masukkan `rexygilang/skillai-komprestoken`.
 
 ## Atribusi
 Diadaptasi dari [Caveman](https://github.com/JuliusBrussee/caveman) oleh JuliusBrussee (MIT).
