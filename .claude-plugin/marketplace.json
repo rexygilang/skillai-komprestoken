@@ -1,0 +1,13 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skillai-komprestoken",
+  "owner": { "name": "rexygilangr" },
+  "plugins": [
+    {
+      "name": "kompres-token-claude",
+      "description": "Jawaban ringkas dengan detail teknis, kode, dan pesan error tetap utuh.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
