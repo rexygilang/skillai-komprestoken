@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "skillai-komprestoken",
-  "owner": { "name": "rexygilangr" },
+  "owner": { "name": "rexygilang" },
   "plugins": [
     {
       "name": "kompres-token-claude",
